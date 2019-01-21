@@ -3,25 +3,26 @@ Constraint Layout Samples
 This repository contains a list of layouts that showcases the various features and usage of
 [ConstraintLayout](https://developer.android.com/reference/android/support/constraint/ConstraintLayout.html)
 
+
 Pre-requisites
 --------------
 - Android Studio 2.3
 - Constaint Layout library 1.0.1
 
 Getting Started
----------------
+------------------
 Import the project using Android Studio. Navigate to the app>res>layout> and open one of the layouts
 in the layout editor. This sample is best understood by seeing the constraints in the Design mode
 of the layout editor.
 
 Screenshots
-------------
+---------------
 
 ![Constraint Set Example](screenshots/constraint_set_example.png "Constraint Set Example")
 ![Advanced Chains Example](screenshots/advanced_chains.png "Advanced usage of Chains")
 
 Support
--------
+----------
 If you've found an error in this sample, please file an issue:
 https://github.com/googlesamples/android-ConstraintLayoutExamples/issues
 
